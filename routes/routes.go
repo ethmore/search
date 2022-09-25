@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"search/controllers"
+	"search-service/controllers"
 
 	"github.com/gin-gonic/gin"
 )

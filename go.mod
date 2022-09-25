@@ -1,4 +1,4 @@
-module search
+module search-service
 
 go 1.18
 

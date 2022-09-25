@@ -1,9 +1,9 @@
 package main
 
 import (
-	"search/dotEnv"
-	"search/routes"
-	"search/services"
+	"search-service/dotEnv"
+	"search-service/routes"
+	"search-service/services"
 
 	"github.com/gin-contrib/cors"
 	"github.com/gin-gonic/gin"

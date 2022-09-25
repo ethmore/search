@@ -3,7 +3,7 @@ package controllers
 import (
 	"fmt"
 	"net/http"
-	"search/services"
+	"search-service/services"
 
 	"github.com/gin-gonic/gin"
 	"github.com/gin-gonic/gin/binding"

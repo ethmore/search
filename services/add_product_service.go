@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"io"
 	"net/http"
-	"search/dotEnv"
+	"search-service/dotEnv"
 	"time"
 )
 
